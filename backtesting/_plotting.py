@@ -9,7 +9,6 @@ from typing import Callable, List, Union
 
 import numpy as np
 import pandas as pd
-
 from bokeh.colors import RGB
 from bokeh.colors.named import (
     lime as BULL_COLOR,
